@@ -17,6 +17,7 @@ Method: ONVIF Protocol + MediaPipe Face Mesh
 Features: Face detection, 468 facial landmarks, auto-tracking, PTZ control, real-time streaming
 Pros: High accuracy, automatic face tracking, professional camera integration, multi-face support
 Cons: Requires ONVIF-compatible camera, complex setup, higher resource usage
+Video link: https://app.filmora.io/#/object/d14jpmvmtbp0kf6sbpk0?source=%7B%22product_id%22:%221901%22,%22product_page%22:%22share_url%22,%22product_version%22:%2214.5.20.12999%22%7D
 
 different angles
 - **Cons**: Requires model download.
