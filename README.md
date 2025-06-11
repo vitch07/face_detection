@@ -12,19 +12,14 @@ pip  install -r requirements.txt
 
 ## 📁 Files Overview
 
-### 1. `face_detector.py` - Basic Haar Cascade
-- **Method**: Traditional Haar Cascade Classifiers
-- **Features**: Face, eyes, smile detection
-- **Pros**: Fast, lightweight
-- **Cons**: Less accurate, limited features
+### 2. onvif_face_detection.py - Advanced ONVIF Face Detection
+Method: ONVIF Protocol + MediaPipe Face Mesh
+Features: Face detection, 468 facial landmarks, auto-tracking, PTZ control, real-time streaming
+Pros: High accuracy, automatic face tracking, professional camera integration, multi-face support
+Cons: Requires ONVIF-compatible camera, complex setup, higher resource usage
 
 different angles
 - **Cons**: Requires model download.
-
-
-
-
-## 🔧 Key Improvements Over Basic Version
 
 ## 🚀 Recommended Usage
 ### MediaPipe Advantages:
