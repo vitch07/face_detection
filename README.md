@@ -36,7 +36,8 @@ different angles
 ## 🎮 Controls
 - **Press 'q'** to quit any application
 - **Real-time detection** from webcam
-
+- ** Press 'a' to change from auto detection to manual movements using up, down, right, left key to move
+ 
 
 ## 📈 Next Steps
 
